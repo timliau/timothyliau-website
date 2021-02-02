@@ -2,7 +2,7 @@
 title: Timothy Liau
 role: Computer Engineering @ Singapore Polytechnic
 avatar_filename: photo_2021-02-03-00.04.35.jpeg
-bio: ""
+bio: Advocate • Innovator • Changemaker
 interests:
   - Software Development
   - Psychology
@@ -18,14 +18,12 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
-organizations:
-  - name: Advocate * Innovator * Changemaker
-    url: ""
+organizations: []
 education:
   courses:
     - course: Diploma in Computer Engineering
       institution: Singapore Polytechnic
-      year: 2021
+      year: 2023
 email: ""
 superuser: true
 highlight_name: false
