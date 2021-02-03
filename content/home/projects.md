@@ -3,7 +3,7 @@ widget: accomplishments
 widget_id: skills
 headless: true
 weight: 65
-title: Projects
+title: Skills
 subtitle: ""
 content:
   page_type: project
