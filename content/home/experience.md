@@ -33,11 +33,20 @@ experience:
         * Worked with QA team to implement improvements products based on user research to several product releases
         * Contributed insights on mental health in Singaporean youth to develop products suitable for both students and young adults
         
-  - title: Professor
-    company: University X
+  - title: Inspector of Police (Assistant Manpower Officer) 
+    company: Singapore Police Force
     company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Singapore
+    date_start: '2019-1-3'
+    date_end: '2020-11-2'
+    description: |2-
+
+        Commissioned Officer in Police Intelligence Department
+        * Handled sensitive data in several Departmental and Organizational Databases
+        * Designed various documents with Microsoft Word and Excel to improve organization of data and information
+        * Organised and Managed PID Annual NSF Cohesion Event in September 2020
+        * Involved in planning of PID Celebration of Success Event in March 2020 
+        * Assisted in managing internal audit schedule for officers within the Manpower Unit of PID
+        * Managed divisional training funds and monitored training hours for officers within the division
+        * Tracked monthly surprise audits and ensured relevant divisions and operated in accordance with Admin and Finance directives
 ---
