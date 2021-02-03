@@ -25,7 +25,7 @@ experience:
       
         * Platform to help people better cope with stress, make psychology more accessible through educational content, and create safe communities for users to confide with
         * Researched on and implemented methods from cognitive behavioral therapy to change user's negative thoughts to positive ones
-        * Built as an emotional management platform from 
+        * Built as an emotional management platform for young people suffering from depression and anxiety
         
 #  - title: Inspector of Police
 #    company: Singapore Police Force
