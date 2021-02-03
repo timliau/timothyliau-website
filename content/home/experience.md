@@ -41,6 +41,8 @@ experience:
     date_end: '2020-11-02'
     description: |2-
       
-        * Worked with QA team to implement improvements products based on user research to several product releases
-        * Contributed insights on mental health in Singaporean youth to develop products suitable for both students and young adults
+        * Handled sensitive data in several Departmental and Organizational Databases
+        * Organised and Managed several events which include PID Celebration of Success Event in March 2020 & PID Annual NSF Cohesion Event in September 2020
+        * Managed internal audit schedule, training funds and training hours for officers within the a unit in PID
+
 ---
