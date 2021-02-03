@@ -1,5 +1,5 @@
 ---
-widget: pages
+widget: accomplishments
 widget_id: awards-press
 headless: true
 weight: 90
