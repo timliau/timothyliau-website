@@ -37,8 +37,8 @@ experience:
     company: Singapore Police Force
     company_url: 'https://safespace.sg/'
     location: Singapore
-    date_start: '2020-12-15'
-    date_end: ''
+    date_start: '2019-01-03'
+    date_end: '2020-11-02'
     description: |2-
       
         * Worked with QA team to implement improvements products based on user research to several product releases
