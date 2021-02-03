@@ -1,7 +1,7 @@
 ---
 title: Timothy Liau
 role: Computer Engineering @ Singapore Polytechnic
-avatar_filename: photo_2021-02-03-00.04.35.jpeg
+avatar_filename: avatar.jpg
 bio: Advocate • Innovator • Changemaker
 interests:
   - Software Development
@@ -32,6 +32,6 @@ highlight_name: false
 
 👨🏻‍💻I currently interning in a product management role at Safe Space, a Mental Health Tech Startup based in Singapore that makes therapy more accessible.
 
-🙌I advocate for student emotional and mental health and founded a platform to help people better cope with stress, make psychology more accessible through educational content, and create safe communities. It utilizes the methods from cognitive behavioral therapy to change negative thoughts to positive ones.
+🙌I advocate for student emotional and mental health and founded a platform to help people better cope with stress, make psychology more accessible through educational content, and create safe communities. 
 
 📖I'm working with my school’s education department to implement a curriculum that teaches students to develop emotional management skills and practice empathy to combat bullying and its effects on victims.
