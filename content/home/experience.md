@@ -37,8 +37,8 @@ experience:
     company: Singapore Police Force
     company_url: ''
     location: Singapore
-    date_start: '2019-1-3'
-    date_end: '2020-11-2'
+    date_start: '2019-1-1'
+    date_end: ''
     description: |2-
       
         * Worked with QA team to implement improvements products based on user research to several product releases
