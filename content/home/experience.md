@@ -35,7 +35,7 @@ experience:
         
   - title: Inspector of Police
     company: Singapore Police Force
-    company_url: 'https://safespace.sg/'
+    company_url: ''
     location: Singapore
     date_start: '2019-01-03'
     date_end: '2020-11-02'
