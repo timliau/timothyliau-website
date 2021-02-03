@@ -33,8 +33,8 @@ experience:
         * Worked with QA team to implement improvements products based on user research to several product releases
         * Contributed insights on mental health in Singaporean youth to develop products suitable for both students and young adults
         
-  - title: Product Manager Intern
-    company: SafeSpace
+  - title: Inspector of Police
+    company: Singapore Police Force
     company_url: 'https://safespace.sg/'
     location: Singapore
     date_start: '2020-12-15'
