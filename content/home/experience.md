@@ -35,7 +35,6 @@ experience:
         
   - title: Inspector of Police(Assistant Manpower Officer)
     company: Singapore Police Force
-    company_url: ''
     location: Singapore
     date_start: '2019-1-1'
     date_end: ''
