@@ -22,18 +22,16 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    location: California
-    date_start: '2017-01-01'
+  - title: Product Manager Intern
+    company: SafeSpace
+    company_url: 'https://safespace.sg/'
+    location: Singapore
+    date_start: '2020-12-15'
     date_end: ''
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+      
+        * Worked with QA team to implement improvements products based on user research to several product releases
+        * Contributed insights on mental health in Singaporean youth to develop products suitable for both students and young adults
         
   - title: Professor
     company: University X
