@@ -41,7 +41,7 @@ experience:
     date_end: '2020-11-2'
     description: |2-
 
-        Commissioned Officer in Police Intelligence Department
+        * Commissioned Officer in Police Intelligence Department
         * Handled sensitive data in several Departmental and Organizational Databases
         * Designed various documents with Microsoft Word and Excel to improve organization of data and information
         * Organised and Managed PID Annual NSF Cohesion Event in September 2020
