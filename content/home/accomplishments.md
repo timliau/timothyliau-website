@@ -15,28 +15,28 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Product Manager Intern
-    company: SafeSpace
-    company_url: 'https://safespace.sg/'
+  - title: Founder & Director
+    company: Mind Friend
+    company_url: ''
     location: Singapore
-    date_start: '2020-12-15'
+    date_start: '2020-10-15'
     date_end: ''
     description: |2-
       
-        * Worked with QA team to implement improvements products based on user research to several product releases
-        * Contributed insights on mental health in Singaporean youth to develop products suitable for both students and young adults
+        * Platform to help people better cope with stress, make psychology more accessible through educational content, and create safe communities
+        * Researched on and implemented methods from cognitive behavioral therapy to change user's negative thoughts to positive ones
         
-  - title: Inspector of Police
-    company: Singapore Police Force
-    company_url: ''
-    location: Singapore
-    date_start: '2019-01-03'
-    date_end: '2020-11-02'
-    description: |2-
-      
-        * Handled sensitive data in several Departmental and Organizational Databases
-        * Organised and Managed several events which include PID Celebration of Success Event in March 2020 & PID Annual NSF Cohesion Event in September 2020
-        * Managed internal audit schedule, training funds and training hours for officers within the a unit in PID
+#  - title: Inspector of Police
+#    company: Singapore Police Force
+#    company_url: ''
+#    location: Singapore
+#    date_start: '2019-01-03'
+#    date_end: '2020-11-02'
+#    description: |2-
+#      
+#        * Handled sensitive data in several Departmental and Organizational Databases
+#        * Organised and Managed several events which include PID Celebration of Success Event in March 2020 & PID Annual NSF Cohesion Event in September 2020
+#        * Managed internal audit schedule, training funds and training hours for officers within the a unit in PID
         
 widget_id: community-leadership
 ---
