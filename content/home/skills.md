@@ -22,8 +22,8 @@ design:
   background:
     text_color_light: true
 ---
-• **Programming:** Python (Flask, NumPy, Pandas, Tensorflow, Keras, PyTorch, Transformers) • Java • JavaScript (Node.js, React) • Swift • HTML/CSS • OCaml • SQL • MATLAB\
-• **Technologies:** Git • Docker • Xcode • LaTeX • Mathematica • Splunk\
-• **Tools:** Microsoft Suite • Figma • Canva\
-• **Other:** Writing • Research • Public Speaking • Teaching\
+• **Programming:** Python • Flutter • C/C++ • Swift • SQL • MATLAB\
+• **Technologies:** Git • Xcode • LaTeX • VS Code\
+• **Tools:** Microsoft Office • Figma • Canva\
+• **Other:** Research • Data Analytics\
 • **Languages:** English • Mandarin Chinese (both native)
