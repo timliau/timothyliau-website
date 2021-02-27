@@ -22,7 +22,8 @@ design:
   view: 2
   background:
     text_color_light: true
----
+    
+    
 item:
   - organization: Coursera
     organization_url: 'https://www.coursera.org'
@@ -49,3 +50,4 @@ item:
     date_start: '2017-07-01'
     date_end: '2017-12-21'
     description: ''
+---
