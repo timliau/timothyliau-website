@@ -25,12 +25,12 @@ design:
     
     
 item:
-  - organization: 
+  - organization: Mar 2021
     organization_url: ''
     title: Neural Networks and Deep Learning
     url: ''
     certificate_url: ''
-    date_start: '2018-10-01'
+    date_start: ''
     date_end: ''
     description: 'Project Description'
   - organization: edX
