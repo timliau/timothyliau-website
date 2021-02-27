@@ -23,7 +23,31 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
-        
+      
+  - title: Research Assistant
+    company: SafeSpace
+    company_url: 'https://safespace.sg/'
+    location: Singapore
+    date_start: '2021-2-15'
+    date_end: ''
+    description: |2-
+      
+        * Conducted data analyses, mapping, and optimization for local startup founders mental health, perspective, and comapany mental wellness practices.
+        * Conducted user studies to gather UX feedback.
+  
+  
+  - title: Product Manager Intern
+    company: SafeSpace
+    company_url: 'https://safespace.sg/'
+    location: Singapore
+    date_start: '2021-1-15'
+    date_end: ''
+    description: |2-
+      
+        * Worked with QA team to implement improvements products based on user research to several product releases.
+        * Communicated closely with the COO to plan the scope of a future platform development.
+
+
   - title: Inspector of Police
     company: Singapore Police Force
     company_url: ''
