@@ -26,4 +26,4 @@ design:
 • **Technologies:** Git • Docker • Xcode • LaTeX • Mathematica • Splunk\
 • **Tools:** Microsoft Suite • Figma • Canva\
 • **Other:** Writing • Research • Public Speaking • Teaching\
-• **Languages:** English • Mandarin Chinese (both native
+• **Languages:** English • Mandarin Chinese (both native)
