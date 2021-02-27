@@ -25,15 +25,14 @@ design:
     
     
 item:
-  - organization: edX
-    organization_url: 'https://www.edx.org'
-    title: Blockchain Fundamentals
-    url: >-
-      https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    certificate_url: 'https://www.edx.org'
-    date_start: '2018-03-01'
+  - organization: Mar 2
+    organization_url: ''
+    title: Project Title
+    url: ''
+    certificate_url: ''
+    date_start: '2021-03-01'
     date_end: ''
-    description: 'Formulated informed blockchain models, hypotheses, and use cases.'
+    description: 'Project Description xxxxxxx'
   - organization: DataCamp
     organization_url: 'https://www.datacamp.com'
     title: 'Object-Oriented Programming in R: S3 and R6 Course'
