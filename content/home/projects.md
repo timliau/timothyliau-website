@@ -25,12 +25,6 @@ design:
     
     
 item:
-  - organization: Mar 2021
-    organization_url: ''
-    title: Neural Networks and Deep Learning
-    url: ''
-    certificate_url: ''
-    description: 'Project Description'
   - organization: edX
     organization_url: 'https://www.edx.org'
     title: Blockchain Fundamentals
