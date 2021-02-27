@@ -25,14 +25,14 @@ design:
     
     
 item:
-  - organization: Coursera
+  - organization: 
     organization_url: ''
     title: Neural Networks and Deep Learning
     url: ''
-    certificate_url: 'https://www.coursera.org'
+    certificate_url: ''
     date_start: '2018-10-01'
     date_end: ''
-    description: ''
+    description: 'Project Description'
   - organization: edX
     organization_url: 'https://www.edx.org'
     title: Blockchain Fundamentals
