@@ -30,8 +30,6 @@ item:
     title: Neural Networks and Deep Learning
     url: ''
     certificate_url: ''
-    date_start: ''
-    date_end: ''
     description: 'Project Description'
   - organization: edX
     organization_url: 'https://www.edx.org'
