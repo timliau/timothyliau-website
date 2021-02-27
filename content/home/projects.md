@@ -30,7 +30,7 @@ item:
     title: Project Title
     url: ''
     certificate_url: ''
-    date_start: '2021-03-01'
+    date_start: ''
     date_end: ''
     description: ' -Project Description xxxxxxx'
   - organization: DataCamp
