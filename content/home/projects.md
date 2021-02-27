@@ -32,7 +32,7 @@ item:
     certificate_url: ''
     date_start: '2021-03-01'
     date_end: ''
-    description: 'Project Description xxxxxxx'
+    description: ' -Project Description xxxxxxx'
   - organization: DataCamp
     organization_url: 'https://www.datacamp.com'
     title: 'Object-Oriented Programming in R: S3 and R6 Course'
