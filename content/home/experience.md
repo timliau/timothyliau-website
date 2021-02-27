@@ -22,6 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+
   - title: Research Assistant
     company: SafeSpace
     company_url: 'https://safespace.sg/'
@@ -30,7 +31,7 @@ experience:
     date_end: ''
     description: |2-
       
-        * Conducted data analyses, mapping, and optimization for local startup founders mental health, perspective of mental health, and comapany mental wellness practices.
+        * Conducted data analyses, mapping, and optimization for local startup founders mental health, perspective, and comapany mental wellness practices.
         * Contributed insights on mental health in Singaporean youth to develop products suitable for both students and young adults
         
   - title: Product Manager Intern
