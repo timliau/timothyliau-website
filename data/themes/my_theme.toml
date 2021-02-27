@@ -20,3 +20,7 @@ home_section_even = "rgb(247, 247, 247)"
 [dark]
   link = "#ffd341"
   link_hover = "#ffd341"
+  
+  # Menu
+  menu_text_active = "#ffd341"
+  
