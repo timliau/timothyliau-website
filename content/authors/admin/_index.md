@@ -22,9 +22,9 @@ social:
 organizations: []
 education:
   courses:
-    - course: Diploma in Computer Engineering
-      institution: Singapore Polytechnic
-      year: 2023
+    - course: Singapore Polytechnic
+      institution: Diploma in Computer Engineering, 2020-2023
+      year: 
 email: ""
 superuser: true
 highlight_name: false
