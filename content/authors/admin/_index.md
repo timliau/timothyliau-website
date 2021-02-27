@@ -4,7 +4,8 @@ role: Computer Engineering @ Singapore Polytechnic
 avatar_filename: avatar.jpg
 bio: Advocate • Innovator • Changemaker
 interests:
-  - Software Development
+  - Mental Health
+  - Adolescent Development
   - Psychology
   - Philosophy
   - Ethics
