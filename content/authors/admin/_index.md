@@ -16,9 +16,7 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/timothy-liau-27499b1ab/
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+  
 organizations: []
 education:
   courses:
