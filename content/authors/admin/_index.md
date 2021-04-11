@@ -6,7 +6,7 @@ bio: Advocate • Innovator • Changemaker
 interests:
   - Mental Health
   - Empathy
-  - Intersection of Psychology and Technology
+  - Psychology x Technology
 social:
   - icon: envelope
     icon_pack: fas
