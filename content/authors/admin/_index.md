@@ -7,6 +7,7 @@ interests:
   - Mental Health
   - Empathy
   - Psychology x Technology
+  - Empathetic AI
 social:
   - icon: envelope
     icon_pack: fas
