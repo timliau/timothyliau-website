@@ -5,10 +5,8 @@ avatar_filename: avatar.jpg
 bio: Advocate • Innovator • Changemaker
 interests:
   - Mental Health
-  - Adolescent Development
-  - Psychology
-  - Philosophy
-  - Ethics
+  - Empathy
+  - Intersection of Psychology and Technology
 social:
   - icon: envelope
     icon_pack: fas
