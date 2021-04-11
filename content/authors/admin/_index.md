@@ -29,8 +29,8 @@ highlight_name: false
 ---
 🙇🏻‍♂️Hi! I'm currently a student at Singapore Polytechnic majoring in Computer Engineering. I enjoy building and researching impactful tools, especially in relation to understanding how people connect, share, understand, and care about each other's emotions. 
 
-👨🏻‍💻I currently interning in a product management role at Safe Space, a Mental Health Tech Startup based in Singapore that makes therapy more accessible.
+👨🏻‍💻I currently working on research at Safe Space, a Mental Health Tech Startup based in Singapore that makes therapy more accessible.
 
-🙌I advocate for student emotional and mental health and founded a platform to help people better cope with stress, make psychology more accessible through educational content, and create safe communities. 
+🙌I founded Mind Friend, a platform to help people better cope with stress, make psychology more accessible through educational content, and create safe communities.
 
-📖I'm working with my school’s education department to implement a curriculum that teaches students to develop emotional management skills and practice empathy to combat bullying and its effects on victims.
+📖I'm planning MindfulHacks, a Mental Health themed hackathon to encourage innovation of solutions to mental health issues and empower students from all backgrounds to take action for causes they care about and combat the stigma of mental illness.
