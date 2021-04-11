@@ -39,7 +39,7 @@ experience:
     company_url: 'https://safespace.sg/'
     location: Singapore
     date_start: '2021-01-15'
-    date_end: ''
+    date_end: '2021-03-15'
     description: |2-
       
         * Worked with QA team to implement improvements products based on user research to several product releases.
