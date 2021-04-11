@@ -14,6 +14,11 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/timothy-liau-27499b1ab/
+  - display:
+      header: false
+    link: https://www.instagram.com/tim.liau/
+    icon_pack: fab
+    icon: instagram
 organizations: []
 education:
   courses:
