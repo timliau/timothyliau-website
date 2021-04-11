@@ -13,4 +13,4 @@ design:
   view: 3
   flip_alt_rows: false
 ---
-https://www.straitstimes.com/opinion/forum/forum-teach-students-to-develop-empathy-for-others
+``
