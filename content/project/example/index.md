@@ -1,7 +1,7 @@
 ---
 slides: example
 url_pdf: ""
-summary: "Forum: Teach students to develop empathy for others"
+summary: Teach students to develop empathy for others
 url_video: ""
 date: 2016-04-27T00:00:00Z
 external_link: "https://www.straitstimes.com/opinion/forum/forum-teach-students\
