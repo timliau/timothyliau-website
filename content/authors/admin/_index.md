@@ -14,7 +14,7 @@ social:
     link: mailto:timothyliaukq@gmail.com
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/timothy-liau-27499b1ab/
+    link: https://www.linkedin.com/in/timothyliaukq/
   - display:
       header: false
     link: https://www.instagram.com/tim.liau/
