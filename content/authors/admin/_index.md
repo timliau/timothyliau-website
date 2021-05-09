@@ -34,8 +34,8 @@ highlight_name: false
 
 🙇🏻‍♂️Hi! I'm currently a student at Singapore Polytechnic majoring in Computer Engineering. I enjoy building and researching impactful tools, especially in relation to understanding how people connect, share, understand, and care about each other's emotions. 
 
-👨🏻‍💻I currently working on research at Safe Space, a Mental Health Tech Startup based in Singapore that makes therapy more accessible.
+👨🏻‍💻I currently working on AI research at A*STAR to create an Empathy Machine
 
 🙌I founded Mind Friend, a platform to help people better cope with stress, make psychology more accessible through educational content, and create safe communities.
 
-📖I'm planning MindfulHacks, a Mental Health themed hackathon to encourage innovation of solutions to mental health issues and empower students from all backgrounds to take action for causes they care about and combat the stigma of mental illness.
+📖I'm planning MindfulHacks, a Mental Health themed hackathon to encourage mental health innovation and empower students from all backgrounds to take action for causes they care about and combat the stigma of mental illness.
