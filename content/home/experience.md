@@ -32,7 +32,7 @@ experience:
     description: |2-
       
         * Assisted in psychology & technology interdisciplinary research under Dr.  Yang Yinping.
-        * Conducted literature review, data annotation and verification, and developed a prototype for an empatheticmachine learning system.
+        * Conducted literature review, data annotation and verification, and developed a prototype for an empathetic machine learning system.
 
   - title: Research Assistant
     company: SafeSpace
