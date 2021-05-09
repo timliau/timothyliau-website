@@ -31,7 +31,7 @@ experience:
     date_end: ''
     description: |2-
       
-        * Conducted data analyses, mapping, and optimization for local startup founders mental health, perspective, and comapany mental wellness practices.
+        * Conducted data analyses, mapping, and optimization for local startup founders mental health, perspective, and company mental wellness practices.
         * Conducted user studies to gather UX feedback.
 
   - title: Product Manager Intern
