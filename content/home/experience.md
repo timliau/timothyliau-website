@@ -23,6 +23,17 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
+  - title: AI Research Intern
+    company: A\*STAR Institute of High Performance Computing
+    company_url: 'https://www.a-star.edu.sg/ihpc'
+    location: Singapore
+    date_start: '2021-05-21'
+    date_end: ''
+    description: |2-
+      
+        * Assisted in psychology & technology interdisciplinary research under Dr.  Yang Yinping.
+        * Conducted literature review, data annotation and verification, and developed a prototype for an empatheticmachine learning system.
+
   - title: Research Assistant
     company: SafeSpace
     company_url: 'https://safespace.sg/'
