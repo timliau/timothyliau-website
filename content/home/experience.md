@@ -32,7 +32,7 @@ experience:
     description: |2-
       
         * Assisted in psychology & technology interdisciplinary research under Dr.  Yang Yinping.
-        * Conducted literature review, data annotation and verification, and developed a prototype for an empathetic machine learning system.
+        * Conducted literature review, data annotation and verification, and developed a prototype for an empathy machine learning system.
 
   - title: Research Assistant
     company: SafeSpace
@@ -42,8 +42,9 @@ experience:
     date_end: ''
     description: |2-
       
-        * Conducted data analyses, mapping, and optimization for local startup founders mental health, perspective, and company mental wellness practices.
-        * Conducted user studies to gather UX feedback.
+        * Worked on a study in collaboration with the Action Community for Entrepreneurship (ACE) to assess mental health of startup founders in Singapore
+        * Conducted research on Singapore startup founders from interviews and surveys
+        * Quantified mental health landscape for Singapore startup founders by modeling the data collected and creating documents to present findings using G Suite
 
   - title: Product Manager Intern
     company: SafeSpace
@@ -53,9 +54,8 @@ experience:
     date_end: '2021-03-15'
     description: |2-
       
-        * Worked with QA team to implement improvements products based on user research to several product releases.
-        * Communicated closely with the COO to plan the scope of a future platform development.
-
+        * Conducted quality programs, QA operations and quality roadmapping
+        * Used software platform testing, content feedback, and user engagement analyses to improve B2B workflow and UX to support web platform for the Product Team
 
   - title: Inspector of Police
     company: Singapore Police Force
@@ -65,8 +65,8 @@ experience:
     date_end: '2020-11-02'
     description: |2-
       
-        * Handled sensitive data in several Departmental and Organizational Databases.
-        * Organised and Managed several events which include PID Celebration of Success Event in March 2020 & PID Annual NSF Cohesion Event in September 2020.
-        * Managed internal audit schedule, training funds and training hours for officers within the a unit in PID.
+        * Handled and maintained sensitive documents in several Departmental and Organizational Databases using Microsoft Office
+        * Organised and facilitated award ceremonies, wellness events and team-building activities for officers in PID
+        * Managed internal audit schedule, training funds and training hours for 40 officers within a unit in PID
 
 ---
