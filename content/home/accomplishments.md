@@ -8,7 +8,7 @@ date_format: Jan 2006
 experience:
   - title: Founder & Director
     company: MindfulHacks
-    company_url: ""
+    company_url: "https://mindfulhacks.netlify.app/"
     location: Singapore
     date_start: 2021-03-15
     date_end: ""
