@@ -40,7 +40,7 @@ experience:
     description: >-2
 
         * A Youth-for-Youth organization that aims to centralize and enhance mental health efforts in Singapore
-        * instagram handle: @mentalhealthcollectivesg
+        * Instagram: @mentalhealthcollectivesg
         
 widget_id: community-leadership
 ---
