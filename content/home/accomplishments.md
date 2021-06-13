@@ -15,8 +15,8 @@ experience:
     description: >-2
       
         * Founded & spearheaded MindfulHacks, Singapore's first mental health themed student run hackathon
-        * Oversaw logistics, managed team, & secured sponsorships 
-        * Currently projected to take place on 4th & 5th September 2021
+        * Formed & led a team of 4 directors consisting of University students majoring in Computer Science and Business and a Polytechnic student majoring in Computer Engineering
+        * Secured $2500+ of monetary and in-kind sponsorship from Organisations such as Safe Space and National Council of Social Service
 
   - title: Co-Founder
     company: Mind Friend
@@ -27,7 +27,8 @@ experience:
     description: >-2
 
         * Platform to help people better cope with stress, make psychology more accessible through educational content, and create safe communities for users to confide with
-        * Researched on and implemented methods from cognitive behavioral therapy to change user's negative thoughts to positive ones
-        * Built as an emotional management platform for young people suffering from depression and anxiety
+        * Led the product direction for a team consisting of a designer, a psychology advisor and one other app developer
+        * Shipped product quality features for Resource feature, Communities, and Cognitive Behavioural Therapy aided journaling to enable education, connection and emotional regulation on Mind Friend
+        * Developed cross-platform app from scratch using Flutter
 widget_id: community-leadership
 ---
