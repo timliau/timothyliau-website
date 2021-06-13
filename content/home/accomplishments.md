@@ -39,9 +39,8 @@ experience:
     date_end: ""
     description: >-2
 
-        * Platform to help people better cope with stress, make psychology more accessible through educational content, and create safe communities for users to confide with
-        * Led the product direction for a team consisting of a designer, a psychology advisor and one other app developer
-        * Shipped product quality features for Resource feature, Communities, and Cognitive Behavioural Therapy aided journaling to enable education, connection and emotional regulation on Mind Friend
-        * Developed cross-platform app from scratch using Flutter
+        * A Youth-for-Youth organization that aims to centralize and enhance mental health efforts in Singapore
+        * instagram handle: @mentalhealthcollectivesg
+        
 widget_id: community-leadership
 ---
