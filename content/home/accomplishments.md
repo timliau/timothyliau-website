@@ -31,9 +31,9 @@ experience:
         * Shipped product quality features for Resource feature, Communities, and Cognitive Behavioural Therapy aided journaling to enable education, connection and emotional regulation on Mind Friend
         * Developed cross-platform app from scratch using Flutter
 
-  - title: Co-Founder
-    company: Mind Friend
-    company_url: ""
+  - title: Education Team
+    company: Mental Health Collective SG
+    company_url: "https://www.mentalhealthcollectivesg.com/"
     location: Singapore
     date_start: 2020-10-15
     date_end: ""
